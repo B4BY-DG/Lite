@@ -18,3 +18,9 @@
           [13] cd Lite
           [14] python2 Lite.pyc
           
+          
+# Pembuat Tools
+ [1] Jeeck X Nano
+ [2] XBrutall
+ [3] zzXCode
+# Sleamat Mencoba
