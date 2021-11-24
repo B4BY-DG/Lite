@@ -1,7 +1,7 @@
 # Bukti
+
+
 https://user-images.githubusercontent.com/88564225/143254216-4f53cf5f-7f0e-4551-90ba-fbab840c0007.jpg
-
-
 # install
           [1] pkg update && pkg upgrade
           [2] pkg install git
