@@ -16,7 +16,8 @@
           [11] pip2 install requests
           [12] git clone https://github.com/mrjeeck/Lite
           [13] cd Lite
-          [14] python2 Lite.pyc
+          [14] pip2 install ipaddres
+          [15] python2 Lite.pyc
           
           
 # Pembuat Tools
