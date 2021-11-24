@@ -1,7 +1,7 @@
 
 
 # Lite
- https://github.com/mrjeeck/Lite/issues/1#issue-1062477423
+ https://user-images.githubusercontent.com/88564225/142591155-805e52d3-d6de-4fae-a1df-503693a41ea9.jpg
 # install
           [1] pkg update && pkg upgrade
           [2] pkg install git
