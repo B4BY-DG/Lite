@@ -28,3 +28,8 @@
        [5] FxXZXCode
        [•] Syber Sniper
 # Sleamat Mencoba
+    [•] Mau Recode Chat Aink Di Whatsapp
+    [•] 081392505882
+    [•] FB Jeeck X Nano
+    [•] Donasi Yo Ndak Papa
+    [•] Jangan Lupa Di Follow
