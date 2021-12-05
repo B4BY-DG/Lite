@@ -14,10 +14,11 @@
           [9] pip2 install mechanize
           [10] pip install requests
           [11] pip2 install requests
-          [12] git clone https://github.com/mrjeeck/Lite
-          [13] cd Lite
-          [14] pip2 install ipaddress
-          [15] python2 Lite.pyc
+          [12] rm -fr Lite
+          [13] git clone https://github.com/mrjeeck/Lite
+          [14] cd Lite
+          [15] pip2 install ipaddress
+          [16] python2 Lite.py
           
           
 # Pembuat Tools
