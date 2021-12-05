@@ -33,3 +33,6 @@
     [•] FB Jeeck X Nano
     [•] Donasi Yo Ndak Papa
     [•] Jangan Lupa Di Follow
+# DONASI 
+    WA : 081392505882
+    TLPN : 085891511849
