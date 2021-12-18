@@ -1,7 +1,10 @@
 
+# Asalamualaikum 
 
-# Bukti
-![Screenshot_20211119-182754_Lite](https://user-images.githubusercontent.com/88564225/143254216-4f53cf5f-7f0e-4551-90ba-fbab840c0007.jpg)
+       (1 Di script ini hanya crack facebook
+       (2 Dan Pada Update-an Terdapat menu SETING U/A
+       (3 Blm ada Chekpoint detector Ya Guys Tunggu Saja Update-an Berikutnya 
+       (4 Gunakan dengan bijak guys jangan di salah gunakan Enjoy 
 # install
           [1] pkg update && pkg upgrade
           [2] pkg install git
@@ -17,23 +20,11 @@
           [12] rm -fr Lite
           [13] git clone https://github.com/mrjeeck/Lite
           [14] cd Lite
-          [15] pip2 install ipaddress
-          [16] python2 Lite.py
-          
-          
-# Pembuat Tools
-       [1] Jeeck X Nano
-       [2] XBrutall
-       [3] zzXCode
-       [4] MenMaXCode
-       [5] FxXZXCode
-       [•] Syber Sniper
-# Sleamat Mencoba
-    [•] Mau Recode Chat Aink Di Whatsapp
-    [•] 081392505882
-    [•] FB Jeeck X Nano
-    [•] Donasi Yo Ndak Papa
-    [•] Jangan Lupa Di Follow
+          [15] git pull
+          [16] pip2 install ipaddress
+          [17] python2 Lite.py
+
+
 # DONASI 
     WA : 081392505882
     TLPN : 085891511849
